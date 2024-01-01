@@ -1,0 +1,16 @@
+body {
+   font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+   font-size: 3rem;
+   font-weight: 600;
+   letter-spacing: -4px;
+   text-transform: uppercase;
+}
+
+@media(min-width: 800px) {
+   .container {
+      width: 800px;
+   }
+}
